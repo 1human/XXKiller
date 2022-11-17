@@ -1,5 +1,19 @@
 <h1 align="center">XXKiller<br>广告拦截规则</h1>
 <div align="center">
+
+```
+              __  ____  __ _  __ _  _  _                            
+              \ \/ /\ \/ /| |/ /(_)| || |  ___  _ __                
+               \  /  \  / | ' / | || || | / _ \| '__|               
+               /  \  /  \ | . \ | || || ||  __/| |                  
+  ____        /_/\_\/_/\_\|_|\_\|_||_||_| \___||_|__                
+ | __ )  _   _  |  _ \   ___  (_) _ __    __ _ |  _ \   ___    __ _ 
+ |  _ \ | | | | | | | | / _ \ | || '_ \  / _` || | | | / _ \  / _` |
+ | |_) || |_| | | |_| || (_) || || | | || (_| || |_| || (_) || (_| |
+ |____/  \__, | |____/  \___/ |_||_| |_| \__, ||____/  \___/  \__, |
+         |___/                           |___/                |___/ 
+         
+ ```
 <h2 align="center">仓库信息</h2>
 <img src='https://img.shields.io/github/stars/DoingDog/XXKiller?color=yellow&style=flat-square'>
 <img src='https://img.shields.io/github/forks/DoingDog/XXKiller?color=orange&style=flat-square'>
